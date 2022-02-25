@@ -56,7 +56,6 @@ p {
 .father {
 	width: 1110px;
 	height: 360px;
-	margin: auto;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
